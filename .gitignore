@@ -1,0 +1,4 @@
+MDK-ARM/FirmwareConsole/*
+!MDK-ARM/FirmwareConsole/*.hex
+MDK-ARM/JLinkLog.txt
+
